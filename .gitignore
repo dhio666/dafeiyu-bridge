@@ -1,0 +1,11 @@
+config.json
+poc_history.jsonl
+poc_memory.txt
+poc_today.json
+poc_state.json
+poc_heartbeat.json
+poc_bridge.log
+*.log
+node_modules/
+__pycache__/
+_build/
