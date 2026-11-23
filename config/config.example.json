@@ -1,0 +1,16 @@
+{
+  "_说明": "把本文件复制为真实 config.json，填入你自己的值。桥从 config.snowluma 读网关连接信息，从 config.ownerQQ 读主人QQ号。",
+  "ownerQQ": "10000",
+  "ownerName": "主人",
+  "snowluma": {
+    "dir": "C:/SnowLuma",
+    "autoStart": false,
+    "webuiPort": 5099,
+    "webuiPassword": "",
+    "autoAttach": true,
+    "httpUrl": "http://127.0.0.1:3000",
+    "wsUrl": "ws://127.0.0.1:3001",
+    "httpToken": "<SnowLuma的HTTP令牌>",
+    "wsToken": "<SnowLuma的WS令牌>"
+  }
+}
